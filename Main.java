@@ -22,6 +22,9 @@ public class Main {
                 System.out.println(i + " is a perfect number.");
             }
         }
+
+        User user = new User();
+        user.UserPrompt();
     }
 }
 
