@@ -9,6 +9,7 @@ public class Main {
         // Prompt the user for dimensions
         System.out.print("Enter the length of the rectangle: ");
         double length = input.nextDouble();
+        
         System.out.print("Enter the width of the rectangle: ");
         double width = input.nextDouble();
         
